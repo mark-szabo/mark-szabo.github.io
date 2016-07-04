@@ -1,0 +1,363 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9.10",
+    "versionPublish": "2.9.10",
+    "name": "Informatika tételek",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "publishType": "local",
+    "publishPath": "file:///M:/RaspberryPi/www/marrk/book",
+    "favicon": "@PROJECT_PATH@/assets/images/m-1575x1575-82.png",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-50143291-7', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "path": "file:///C:/Users/Mark%20Szabo/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-03-27_173610",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Informatika tételek",
+        "meta_descr": "informatika; tételek; érettségi; kidolgozott; kidolgozás; it; szabó márk;",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "color": "#2c82c9",
+              "font-size": "17px"
+            },
+            "H1": {
+              "color": "#2c82c9"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cover-copy-5000x2813-77.png",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Informatika tételek</span>",
+          "text": "Emelt szintű érettségi témakörök vázlatai<br>Információs társadalom. Hardver. Szoftver. Hálózat. Könyvtárhasználat.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://play.google.com/store/books/details?id=eGClCQAAQBAJ\" data-toolbar=\"-mbrBtnMove\">GOOGLE PLAY BOOKS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"Informatika tételek.pdf\" data-toolbar=\"-mbrBtnMove\">LETÖLTÉS</a>  "
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-5324-circle-2811x2800-78.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "SZABÓ MÁRK",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Gimnazista diák voltam, és infóból akartam érettségizni. Nem találtam egy jól összeállított tételkidolgozást sem, így jött az ötlet, hogy csináljak egy sajátot. Olyan jól sikerült, hogy közzétettem, mások is tanulhassanak belőle.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://marrk.me\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">RÓLAM</a>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-picture-300x300-11.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "MAGAS ÉRTÉKELÉS",
+          "caption1": "4,6-os értékelést kapott a Google Play áruházban.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "WEBEN &amp; ANDROIDON",
+          "caption2": "Ingyenesen elérhető a webes Google Booksban, és az Androidos Google Play Books könyvesboltban is.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Nagyon hasznos és jól össze szedett tananyag. Középszintre is ezzel tanultam és most emeltre is.”</p>",
+              "authorName": "AMBRUS VARGA",
+              "authorBio": "2015. szeptember 30."
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Nagyon hasznos dokumentum, az informatika érettségire való felkészülésemben sokat segített. Nagyon jól össze van gyűjtve az anyag, hiszen minden kérdésre válaszol. Nagyon szépen köszönöm a segítséget!”</p>",
+              "authorName": "ANDRÁS GEDEON",
+              "authorBio": "2015. június 14."
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Nagyon hasznos és örülök, hogy valakinek eszébe jutott ezt megírni. Csak azt sajnálom, hogy érettségi előtti utolsó napon találam rá, de azért végigolvastam. :) Köszönet a szerzőnek.”</p>",
+              "authorName": "KITTI KÖDÖBÖCZ",
+              "authorBio": "2015. június 4."
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Nagyon hasznos és jól össze szedett tananyag. Középszintre is ezzel tanultam és most emeltre is.”</p>",
+              "authorName": "AMBRUS VARGA",
+              "authorBio": "2015. szeptember 30."
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Nagyon hasznos dokumentum, az informatika érettségire való felkészülésemben sokat segített. Nagyon jól össze van gyűjtve az anyag, hiszen minden kérdésre válaszol. Nagyon szépen köszönöm a segítséget!”</p>",
+              "authorName": "ANDRÁS GEDEON",
+              "authorBio": "2015. június 14."
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Nagyon hasznos és örülök, hogy valakinek eszébe jutott ezt megírni. Csak azt sajnálom, hogy érettségi előtti utolsó napon találam rá, de azért végigolvastam. :) Köszönet a szerzőnek.”</p>",
+              "authorName": "KITTI KÖDÖBÖCZ",
+              "authorBio": "2015. június 4."
+            }
+          ],
+          "_anchor": "testimonials1-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": "3",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "VISSZAJELZÉSEK"
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Szeretnéd nyomtatva? Ebből tanítanál? Valami más? Vedd fel velem a kapcsolatot!",
+          "form": {
+            "action": "srv.maorka@gmail.com",
+            "alerts": {
+              "success": "Jelentkezni fogok!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Név"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Üzenet"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KÜLDÉS</a>"
+        }
+      ]
+    }
+  }
+}
